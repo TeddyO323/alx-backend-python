@@ -2,8 +2,7 @@
 
 ![async](images/4aeaa9c3cb1f316c05c4.png)
 
-## Python
-## Back-end
+#### Python | Back-end
 
 ### Resources
 Read or watch:
