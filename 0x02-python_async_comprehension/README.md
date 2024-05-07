@@ -90,9 +90,9 @@ print(asyncio.run(main()))
 ---
 
 ## Repository Information
-- GitHub repository: alx-backend-python
-- Directory: 0x02-python_async_comprehension
+- GitHub repository: `alx-backend-python`
+- Directory: `0x02-python_async_comprehension`
 - Files: 
-  - 0-async_generator.py
-  - 1-async_comprehension.py
-  - 2-measure_runtime.py
+  - `0-async_generator.py`
+  - `1-async_comprehension.py`
+  - `2-measure_runtime.py`
