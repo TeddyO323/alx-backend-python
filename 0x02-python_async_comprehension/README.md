@@ -2,7 +2,7 @@
 
 ## Python | Back-end
 
-[async](images/ee85b9f67c384e29525b.png)
+![async](images/ee85b9f67c384e29525b.png)
 
 ## Resources
 Read or watch:
