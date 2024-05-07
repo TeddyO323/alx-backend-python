@@ -30,6 +30,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class, or method (the length of it will be verified)
 - All your functions and coroutines must be type-annotated.
 
+---
+
 ## Tasks
 ### 0. Async Generator
 Write a coroutine called `async_generator` that takes no arguments.
