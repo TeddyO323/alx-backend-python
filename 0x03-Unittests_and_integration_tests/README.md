@@ -1,4 +1,3 @@
-```markdown
 # 0x03. Unittests and Integration Tests
 
 ## Unit Tests | Back-end | Integration tests
